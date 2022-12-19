@@ -1,9 +1,8 @@
 # FP-PBO-D 
-Nama Kelompok :
+### Anggota Kelompok
+- Azhar Abiyu Rasendriya Harun    (5025211177)
+- Dany Dary                       (5025211237)
 
-Azhar Abiyu Rasendriya Harun    5025211177
-
-Dany Dary                       5025211237
-
-Referensi : https://www.youtube.com/@RyiSnow
+### Reference
+[@RyiSnow](https://www.youtube.com/@RyiSnow)
 
